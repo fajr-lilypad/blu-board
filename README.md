@@ -8,11 +8,12 @@ Blu-Board is a custom devboard (my first!) Built off of a RP2040, this is a more
 ## PCB Layout 
 
 This took a lot of time, but was worth it in the end! It taught me a lot about routing, thermal reliefs, and mindful placement. It was my first time working with a flash memory card or a crystal oscillator in a pcb, too!
-
 <table>
   <tr>
-     <img src="https://github.com/user-attachments/assets/ada3176b-9a85-4aa8-be30-1ec5e46505ef" />
+    <td>
+      <img src="https://github.com/user-attachments/assets/ada3176b-9a85-4aa8-be30-1ec5e46505ef" />
     </td>
+    <td>
     <img src="https://github.com/user-attachments/assets/50cb18a9-a595-4db0-887f-7214a2fe6e84" />
     </td>
   </tr>
