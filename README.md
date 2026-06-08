@@ -11,7 +11,6 @@ This took a lot of time, but was worth it in the end! It taught me a lot about r
 
 <table>
   <tr>
-    <td rowspan="2">
      <img src="https://github.com/user-attachments/assets/ada3176b-9a85-4aa8-be30-1ec5e46505ef" />
     </td>
     <img src="https://github.com/user-attachments/assets/50cb18a9-a595-4db0-887f-7214a2fe6e84" />
