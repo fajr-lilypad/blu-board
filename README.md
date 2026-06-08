@@ -25,4 +25,26 @@ This took a lot of time, but was worth it in the end! It taught me a lot about r
 
 ## BOM
 
+"Item","#","Purpose","Price","Source","Link"
+"Rasberry Pi 2040","1","Microcontroller","$0.80","PiShopUSA","https://www.pishop.us/product/raspberry-pi-rp2040/?srsltid=AfmBOorSiPwZ4N7HXN2U0b0knYWJnlClnwnstZDdNLLsMam4UAugIxdB4rs"
+"1x20 Pin Header","2","Pins","$1.34","Mikroe","https://www.mikroe.com/1x20-male-pin-header?srsltid=AfmBOopXewJdVJScYL7vcy0ZBhXL1PcT3TNst3e0l6S0080vmtMOhk3b-Mc"
+"0.1uF C","12","Capicitator","$3.84","Sparkfun","https://www.sparkfun.com/capacitor-ceramic-0-1uf.html"
+"5.1k R","2","Resistor","$0.08","Electronix Express","https://www.elexp.com/products/130155-1kres-1-watt-5-5-1-k-ohm?variant=42620564504804&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqKgWPBG0shD9zpuYg7Psf4nfMv1r5sR8Nr0Ir3SL3qnrRQrXJ_9UA"
+"10uF C","2","Capicitator","$0.40","DigiKey","https://www.digikey.com/en/products/detail/kyocera-avx/REA0511100M025K/20096372?gclsrc=aw.ds&gad_source=1&gad_campaignid=20682862038&gbraid=0AAAAADrbLlg0zCO2nMN9oOFXGoIwVJrS6&gclid=Cj0KCQjw0JnRBhDJARIsALobnXYPCey9XhELbus8p4oBeSzUM1fkyno59aOY1zw6VVWGtJGkAox3TrsaAmw4EALw_wcB"
+"1K R","2","Resistor","$0.20","DigiKey","https://www.digikey.com/en/products/detail/yageo/MFR-25FTF52-1K/9140604?gclsrc=aw.ds&gad_source=1&gad_campaignid=17335707486&gbraid=0AAAAADrbLlgqnE17MBySLl412xT3dFUeL&gclid=Cj0KCQjw0JnRBhDJARIsALobnXakpvVYdOGztgsvtSKwE79AdJEvhnWEkEIyQ3gdhkyJx4jX317zDJkaAjerEALw_wcB"
+"1x03 Pin Header","1","Pins","$0.23","Mouser Eletronics","https://www.mouser.com/ProductDetail/Harwin/M22-2510305?qs=Z7IUn5gUMVONkEjocUd7kg%3D%3D&mgh=1&utm_id=22288723604&utm_source=google&utm_medium=cpc&utm_marketing_tactic=amercorp&gad_source=4&gad_campaignid=22288726694&gbraid=0AAAAADn_wf30N259TnrufS_TZFJDTtaHg&gclid=Cj0KCQjw0JnRBhDJARIsALobnXZQLsWtaPO5afch1NSt4Pu2yZkarmpP5d_HRQKpA2yGJk3OKvz3ylQaAmbOEALw_wcB"
+"1uF C","2","Capicitator","$0.40","DigiKey","https://www.digikey.com/en/products/detail/kyocera-avx/REA05111R0M050K/20096513?gclsrc=aw.ds&gad_source=1&gad_campaignid=20682862038&gbraid=0AAAAADrbLlg0zCO2nMN9oOFXGoIwVJrS6&gclid=Cj0KCQjw0JnRBhDJARIsALobnXbjebcoAmcIRErazcBxw3UNkIyXNPoxNc7ANFcH5uaAV1FzOTPnl4QaArwpEALw_wcB"
+"33pf C","2","Capicitator","$1.12","DigiKey","https://www.digikey.com/en/products/detail/murata-electronics/RCE5C2A330J0M1H03A/4277083?gclsrc=aw.ds&gad_source=1&gad_campaignid=20509818233&gbraid=0AAAAADrbLlied6U1PO-X9vgylrs8pLi1n&gclid=Cj0KCQjw0JnRBhDJARIsALobnXZYgGnIDuHKfOUllKuRLUyinVjaLLaJfXFdjW9Wg1789fI8Et_OJPEaAqfQEALw_wcB"
+"WS2812B","1","LED","$0.10","Ebee","https://www.ebee.com/product-detail/worldsemi-ws2812b-v5-w_617514.html?gad_source=1&gad_campaignid=22818797232&gbraid=0AAAABAZS-mZ97kvrRYudRCfHYeKSVd23P&gclid=Cj0KCQjw0JnRBhDJARIsALobnXbpNoaM8TbHHZTgba2UspdfY-oN8lfFjU0dsez_f3c1VV_Ib0_YNKMaAifpEALw_wcB"
+"MCP1700x-330xxTT","1","Regulator","$0.51","DigiKey","https://www.digikey.com/en/products/detail/microchip-technology/MCP1700T-3302E-TT/652676?msockid=2e5d5b722df0614517334d312c7660e6"
+"USB C Receptacle","1","Connector","$0.91","DigiKey","https://www.digikey.com/en/products/detail/gct/USB4085-GF-A/9859662?msockid=2e5d5b722df0614517334d312c7660e6"
+"12 MHz Crystal SMD","1","Crystal","$0.50","Mouser Electronics","https://www.mouser.com/ProductDetail/Wurth-Elektronik/830105420809?qs=hd1VzrDQEGhFJmLFyoYByw%3D%3D"
+"330 Ohm Chip R","1","Resistor","$0.10","DigiKey","https://www.digikey.com/en/products/detail/yageo/RT0402FRE07330RL/1071958"
+"W25Q128JVS","1","Memory Chip","$1.87","Buy Display","https://www.buydisplay.com/new-winbond-ic-chip-flash-128m-bit-w25q128jv-sop8-package?srsltid=AfmBOorTtHa9eSnclcz9y9MKXpbE52O-UkMt6bnDD7wcOpvxAkhcAFfxirI"
+"27K R","2","Resistor","$0.42","Newark","https://www.newark.com/multicomp-pro/mf25-27k/res-27k-250mw-axial-metal-film/dp/38K5324?cjdata=MXxOfDB8WXww&CMP=AFF-CJ-101375778-Newark+Redirect+Link&gad_source=1&gad_campaignid=22957739450&gbraid=0AAAAAD5U_g2ATgQ2NG2je9ALfN8sx9jn8&gclid=Cj0KCQjw0JnRBhDJARIsALobnXZpBhV4gM6cjgULH4YQ3_HOMMbNESm9YJqxlcUMUdGeT429-VJUSysaArluEALw_wcB&source=CJ&cjevent=34edd5a2637611f181a1063b0a82b82a&loyaltysignal=0"
+"10K R","1","Resistor","$0.19","Newark","https://www.newark.com/multicomp-pro/mf12-10k/res-10k-125mw-axial-metal-film/dp/38K5401?CMP=KNC-GUSA-PMAX-SHOPPING-ONBOARD-COMP-NEW&gad_source=1&gad_campaignid=22957739450&gbraid=0AAAAAD5U_g2ATgQ2NG2je9ALfN8sx9jn8&gclid=Cj0KCQjw0JnRBhDJARIsALobnXaCMZy09SS6FHr-OHNYzwHpClJ-m80lx3xV-T8LpQe5MepvkQgdvkEaAqznEALw_wcB"
+"SW Push","1","Button","$0.11","SameSky","https://www.sameskydevices.com/product/switches/tactile-switches/ts02-66-60-bk-260-lcr-d?gad_source=1&gad_campaignid=21298951355&gbraid=0AAAAACohXz1fiXhj2T0FMprjXrLrWC8G8&gclid=Cj0KCQjw0JnRBhDJARIsALobnXa_TaIyqQXn2UFvrIDqeu8W0gxQuIBMibr_Leqg33zKeuVPJBAM3IcaAuDZEALw_wcB"
+"PCB Order","1","PCB","$2.10","JLCPCB","https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010"
+" "," ","Subtotal","$15.22"," "," "
+
 
