@@ -46,3 +46,7 @@ This took a lot of time, but was worth it in the end! It taught me a lot about r
 | SW Push | 1 | Button | $0.11 | SameSky | [Link](https://www.sameskydevices.com/product/switches/tactile-switches/ts02-66-60-bk-260-lcr-d?gad_source=1&gad_campaignid=21298951355&gbraid=0AAAAACohXz1fiXhj2T0FMprjXrLrWC8G8&gclid=Cj0KCQjw0JnRBhDJARIsALobnXa_TaIyqQXn2UFvrIDqeu8W0gxQuIBMibr_Leqg33zKeuVPJBAM3IcaAuDZEALw_wcB) |
 | PCB Order | 1 | PCB | $2.10 | JLCPCB | [Link](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Subtotal** | | | **$15.22** | | |
+
+## Notes and Acknoweldgements
+Thank you to the hackclub and fallout team for making this possible!
+Thank you user KaiPereira for a super helpful guide on devboards and all things PCB! I learned so much!
