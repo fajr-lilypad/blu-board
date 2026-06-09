@@ -23,6 +23,10 @@ This took a lot of time, but was worth it in the end! It taught me a lot about r
 
 <img width="1701" height="1164" alt="Screenshot 2026-06-08 152114" src="https://github.com/user-attachments/assets/c90b0b76-b549-4695-8289-75a9a4c00725" />
 
+## Zine
+
+<img width="570" height="811" alt="image" src="https://github.com/user-attachments/assets/f69339ff-9408-496d-a3e5-5f6d8c5a6ef2" />
+
 ## BOM
 | Item | Qty | Purpose | Price | Source | Link |
 | :--- | :---: | :--- | :---: | :--- | :--- |
