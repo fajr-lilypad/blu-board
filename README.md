@@ -54,3 +54,5 @@ This took a lot of time, but was worth it in the end! It taught me a lot about r
 ## Notes and Acknoweldgements
 Thank you to the hackclub and fallout team for making this possible!
 Thank you user KaiPereira for a super helpful guide on devboards and all things PCB! I learned so much!
+"Blu - Board" font courtesy of Alit Design Studio
+All artwork belongs to respective creators.
